@@ -11,6 +11,8 @@
 
 ### Resultados 
 
+Se puede sintetizar todas las resoluciones a un script de bash para simplificar el proceso, el archivo es [landing_sqoop.sh](landing_sqoop.sh).
+
 El archivo donde se muestra el procedimiento es [Trabajo_SQOOP_NIFI.pdf](Trabajo_SQOOP_NIFI.pdf). 
 
 ## APACHE NIFI
